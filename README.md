@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Priyanshu Patel</h1>
+<h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I'm <a href='https://priyanshupatel.netlify.app' target='_blank'>Priyanshu Patel</a></h1>
 <h3 align="center">A passionate front-end developer from India</h3>
 
 - 🌱 I’m currently learning **DSA and Web Devlopment**
