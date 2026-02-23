@@ -1,37 +1,119 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Patel</h1>
-<h3 align="center">A passionate Full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu2410&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu2410" /> </p>
 
-- 🔭 I’m currently working on [Coding and Mentorship Platform](https://github.com/Priyanshu2410/Mini-Project)
+<!-- ===================== HERO SECTION ===================== -->
 
-- 🌱 I’m currently learning **Machine learning and NLP**
-
-- 👨‍💻 All of my projects are available at [https://priyanshupatel2533.netlify.app/](https://priyanshupatel2533.netlify.app/)
-
-- 💬 Ask me about **react, Nodejs, DSA, Hackathon**
-
-- 📫 How to reach me **patelpriysnshu2410@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZMAEi9irpZOKZ0QKd9qqvljw2bvAl-oe/view?usp=sharing](https://drive.google.com/file/d/1ZMAEi9irpZOKZ0QKd9qqvljw2bvAl-oe/view?usp=sharing)
-
-- ⚡ Fun fact **Why did the computer keep freezing? It left its Windows open!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/priyans02866750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyans02866750" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priyanshupatel2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshupatel2410" height="30" width="40" /></a>
-<a href="https://instagram.com/priyanshupatel2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshupatel2410" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/patelpriysnshu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="patelpriysnshu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyanshu2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu2410" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/patelpriyanshu2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="patelpriyanshu2410" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0b0f14,50:101820,100:0b0f14&text=PRIYANSHU%20PATEL&fontSize=48&fontColor=8be9fd&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20•%20Product%20Builder%20•%20AI%20Explorer&descAlignY=65&descAlign=50"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=800&color=8BE9FD&center=true&vCenter=true&width=700&lines=Designing+Scalable+Systems;Building+Intelligent+Products;Thinking+in+Architectures;Shipping+With+Intent" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu2410&show_icons=true&locale=en&layout=compact" alt="priyanshu2410" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu2410&show_icons=true&locale=en" alt="priyanshu2410" /></p>
+## PROFILE
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu2410&" alt="priyanshu2410" /></p>
+I approach engineering as system design, not task completion.
+
+Based in India.  
+Working across full-stack architecture, backend systems, and AI exploration.  
+Focused on building structured, scalable, and intelligent products.
+
+---
+
+## FOUNDER MODE
+
+What drives me:
+
+- Build long-term systems, not short-term hacks  
+- Think in infrastructure before interface  
+- Automate before repeating  
+- Optimize for clarity over noise  
+
+Current trajectory:
+Scalable SaaS → Autonomous systems → Advanced architecture design
+
+---
+
+## DEVELOPER LEVEL SYSTEM
+
+Level: 08 — Architect in Progress  
+XP: ███░░░░░ 40%
+
+Skill Domains:
+- System Design  
+- Backend Architecture  
+- Full Stack Engineering  
+- AI & Machine Learning  
+- Product Thinking  
+
+Next Unlock:
+Distributed Systems & AI Infrastructure Engineering
+
+---
+
+## TECH RADAR
+
+Core Engineering Stack:
+
+Next.js  
+React  
+Node.js  
+Go  
+Git-Github
+MongoDB  
+SQL  
+Docker  
+Sitecore 
+
+Supporting Areas:
+
+AI / ML  
+MCP Systems  
+Automation Workflows  
+Scalable SaaS Design  
+
+---
+
+## PERFORMANCE ANALYTICS
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanshu2410&show_icons=true&theme=dark&hide_border=true&bg_color=0b0f14&title_color=8be9fd&text_color=c9d1d9"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2410&layout=compact&theme=dark&hide_border=true&bg_color=0b0f14&title_color=8be9fd&text_color=c9d1d9"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu2410&theme=dark&hide_border=true&background=0b0f14&ring=8be9fd&fire=8be9fd&currStreakLabel=8be9fd"/>
+</p>
+
+---
+
+## LIVE CONTRIBUTION FLOW
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu2410/Priyanshu2410/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## AI PERSONA
+
+```javascript
+class Engineer {
+  constructor() {
+    this.identity = "System Builder";
+    this.focus = ["Scalability", "Automation", "Architecture"];
+    this.mindset = "Long-term thinking";
+  }
+
+  build(idea) {
+    return `Structuring ${idea} into scalable reality.`;
+  }
+
+  evolve() {
+    return "Continuous iteration and deliberate improvement.";
+  }
+}
+
+const priyanshu = new Engineer();
